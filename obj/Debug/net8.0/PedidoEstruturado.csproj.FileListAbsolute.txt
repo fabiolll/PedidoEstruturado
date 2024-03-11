@@ -12,3 +12,4 @@ C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\refi
 C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.pdb
 C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.genruntimeconfig.cache
 C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\ref\PedidoEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.sourcelink.json

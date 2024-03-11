@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidoEstruturado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9faeab3103b5c5539cc3af0aaa30b61d6b658cf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidoEstruturado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidoEstruturado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
