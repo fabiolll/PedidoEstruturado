@@ -1,0 +1,14 @@
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\bin\Debug\net8.0\PedidoEstruturado.exe
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\bin\Debug\net8.0\PedidoEstruturado.deps.json
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\bin\Debug\net8.0\PedidoEstruturado.runtimeconfig.json
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\bin\Debug\net8.0\PedidoEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\bin\Debug\net8.0\PedidoEstruturado.pdb
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.AssemblyInfo.cs
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\refint\PedidoEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.pdb
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\PedidoEstruturado.genruntimeconfig.cache
+C:\Users\Fabio\Documents\csharp\projetos\PedidoEstruturado\obj\Debug\net8.0\ref\PedidoEstruturado.dll
